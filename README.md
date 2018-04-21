@@ -1,2 +1,2 @@
 # GoldPigCongratulate
-A simple worm
+A simple worm[Can be directly compiled]
